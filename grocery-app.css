@@ -16,7 +16,7 @@
 .display {
   width: 100%;
   min-height: 100vh;
-  background: url(/grocery-list-media/Shopping\ List\ App\ \(2\).png);
+  background: url(https://media.discordapp.net/attachments/1260186108981936128/1269228431799877783/Shopping_List_App_2.png?ex=66af4c97&is=66adfb17&hm=1607efb2393d6a5719f9359b586d3d9db45777704f2ae7ac71f81ecd0147eed5&=&format=webp&quality=lossless&width=1202&height=676);
   padding: 10px;
 }
 
@@ -108,7 +108,7 @@ ul li::before {
   height: 28px;
   width: 28px;
   border-radius: 50%;
-  background-image: url(/circle-outline-xxl.png);
+  background-image: url(https://media.discordapp.net/attachments/1260186108981936128/1269228394361655419/unchecked.png?ex=66af4c8e&is=66adfb0e&hm=fd198d971b2f5b3131a69353132a63ab88bff6407a1940b4e89904505f61c95a&=&format=webp&quality=lossless);
   background-size: cover;
   background-position: center;
   top: 12px;
@@ -121,7 +121,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-  background-image: url(/icons8-verified-check-circle-for-approved-valid-content-97.png);
+  background-image: url(https://media.discordapp.net/attachments/1260186108981936128/1269228394604789871/icons8-verified-check-circle-for-approved-valid-content-97.png?ex=66af4c8e&is=66adfb0e&hm=62c5b2a71ec5162f8f31336c2097786f330589fec464efbec8f0fb496b041d85&=&format=webp&quality=lossless);
 }
 
 ul li span {
